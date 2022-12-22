@@ -6,7 +6,7 @@ public class Main {
         cf.color="red";
         cf.doors="5";
         cf.engine=3;
-        cf.model="civic";
+        System.out.println("incomplete");
 
     }
 }
