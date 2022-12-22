@@ -3,5 +3,10 @@ public class Main {
 
         CarFeatures cf=new CarFeatures();
         System.out.println("Launch the Car");
+        cf.color="red";
+        cf.doors="5";
+        cf.engine=3;
+        cf.model="civic";
+
     }
 }
